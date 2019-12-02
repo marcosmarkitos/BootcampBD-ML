@@ -1,0 +1,19 @@
+vendedor_id;vendedor_code;sexo;fecha_nacimiento;fecha_contratacion;region;territorio;es_manager
+1;-999;No aplica;1900-01-01;1900-01-01;No aplica;No aplica;f
+2;274;Masculino;1951-10-17;2011-01-04;Global;North America;t
+3;275;Masculino;1968-12-25;2011-05-31;Northeast;North America;f
+4;276;Femenino;1980-02-27;2011-05-31;Southwest;North America;f
+5;277;Femenino;1962-08-29;2011-05-31;Central;North America;f
+6;278;Masculino;1975-02-04;2011-05-31;Canada;North America;f
+7;279;Masculino;1974-01-18;2011-05-31;Southeast;North America;f
+8;280;Femenino;1974-12-06;2011-05-31;Northwest;North America;f
+9;281;Masculino;1968-03-09;2011-05-31;Southwest;North America;f
+10;282;Masculino;1963-12-11;2011-05-31;Canada;North America;f
+11;283;Masculino;1974-02-11;2011-05-31;Northwest;North America;f
+12;284;Masculino;1978-01-05;2012-09-30;Northwest;North America;f
+13;285;Masculino;1975-01-11;2013-03-14;Global;Pacific;t
+14;286;Femenino;1977-02-14;2013-05-30;Australia;Pacific;f
+15;287;Femenino;1957-09-20;2012-04-16;Global;Europe;t
+16;288;Femenino;1975-07-09;2013-05-30;Germany;Europe;f
+17;289;Femenino;1968-03-17;2012-05-30;United Kingdom;Europe;f
+18;290;Masculino;1975-09-30;2012-05-30;France;Europe;f

@@ -1,0 +1,16 @@
+﻿MODULO BI&DWH BOOTCAMP BIG DATA KEEPCODING
+
+Material:
+- PDF con las diapositivas que nos guiarán durante el módulo.
+- Documentación acerca del modelo de datos de AdventureWorks, la empresa ficticia para la que montaremos un DWH.
+- Ficheros csv con datos para utilizar en la fase final de visualización y explotación con Tableau.
+- Máquina virtual donde tenéis instalado todo lo que utilizaremos en el curso (U: kc-dwh; P: kcdwh):
+	* PostgreSQL como base de datos para el data warehouse (Pgadmin para administración)
+		* usuario: postgres
+		* password: postgres
+	* Pentaho Data Integration para los procesos ETL.
+
+- Utilizaré brevemente Tableau Public en mi equipo. Podéis descargarlo en los vuestros (solo Windows o Mac), aunque no es necesario, requiera de email para bajarlo:
+	* https://public.tableau.com/es-es/s/download
+
+- Dentro de la máquina virtual, ya está esta información guardada, no tenéis que preocuparos de introducirla en ella.

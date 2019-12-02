@@ -1,0 +1,29 @@
+- On-Line Transaction Processing Vs OL Analytical Processing
+
+https://www.datawarehouse4u.info/OLTP vs OLAP.html
+
+
+
+- Definición API?
+
+Una API es un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software 
+de las aplicaciones. API significa interfaz de programación de aplicaciones. Las API permiten 
+que sus productos y servicios se comuniquen con otros, sin necesidad de saber cómo están implementados.
+
+
+
+- Diseño DWH: 
+Inmon (toda la empresa, requiere mucho tiempo/equipo con alta especialización y presupuesto inicial alto; fácil mantenimiento) 
+Vs Kimball (departamentos individuales, poco tiempo de desarrollo/especialización media y coste inicial bajo; mantenimiento complejo)
+
+https://blog.bi geek.com/arquitectura comparativa inmon y kimball/
+http://sistemasdecisionales.blogspot.com/2006/11/kimball 1 inmon 1 usabilidad vs.html
+
+
+
+- Modelos analíticos:
+dimensiones son atributos que caracterizan lo que queremos medir.
+en estrella join únicos, información NO normalizada
+en copo de nieves varios join, información normalizada
+se puede sacrificar la normalización para evitar join. Por tanto consultas más rápidas. Más eficiente.
+
