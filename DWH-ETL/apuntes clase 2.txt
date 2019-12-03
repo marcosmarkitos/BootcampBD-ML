@@ -1,0 +1,11 @@
+
+
+- herramienta para diagrama:
+
+dbschema.com
+otras opciones opensource, pdte de pasarlo por slack.
+
+
+- De cara al ejercicio:
+2 BBDD: una para la parte operacional(donde se carga toda la info de la empresa) 
+y otra para el modelo analítico (donde cargamos nuestro modelo en estrella).
