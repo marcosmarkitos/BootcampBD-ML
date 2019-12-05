@@ -1,0 +1,43 @@
+- recordatorio abrir pentaho:
+(herramienta que nos va a servir para rellenar de info nuestro DWH)
+nos aporta sencillez y agilidad para conectores (ya creados) y para transformar la info.
+"open source"
+https://sourceforge.net/projects/pentaho/
+
+se abre terminal
+cd /opt/pentaho/data-integration/
+./spoon.sh
+
+
+se manejan dos tipos de ficheros:
+jobs: trabajos (flechas en círculos)
+transformcaciones: se pueden llamar a procesos o tratamientos (flechas hacia dentro)
+
+vamos a diseñar el flujo del proceso ETL
+view:
+conexiones a BBDD
+
+->Creamos AdventureWorksDWH
+General/start
+scripting/SQL conectada a nuestra BBDD
+carga dimensiones: job que a su vez llama a varias transformaciones. cada una de ellas se puede abrir.
+jobs y transformaciones: nombre y ruta. Luego se abre con boton derecho/abrir objeto referenciado
+se puede ir ejecutando cada tarea para previsualizar y comprobar.
+-->carga dimensión vendedores ->carga vendedores: dos acciones en paralelo
+--->leemos vendedores: entrada tabla (script SQL, se concecta, previsualiza)
+	fx: fórmula (scripting)
+	mapeo género: M: masculino y F: femenino
+	selecciona/renombra valores: transformar
+	if field value is null: (utility)->region global para managers
+	cargamos vendedores: salida tabla, escribir en BBDD
+--->Data grid: entrada ficticia para considerar el online.	
+	cargamos vendedor on line: salida tabla, escribir en BBDD
+
+en la carga de hechos/ventas hay que recuperar las claves subrogadas. 
+busqueda/actualización en combinación: Pensar en un buscarv de tabla, flujo y clave que los une
+
+
+Después del proceso ETL hay que presentar los resultados para dar solución a las necesidades iniciales.
+
+Ejercicio pdte: descargar tableau public y sacar alguna de las gráficas que piden.
+Tp no lee directamente de BBDD sql, solo admite ficheros. Una solución es coger la salida de nuestra BBDD y transformarla a excell o .csv con Pentaho.

@@ -7,5 +7,9 @@ otras opciones opensource, pdte de pasarlo por slack.
 
 
 - De cara al ejercicio:
-2 BBDD: una para la parte operacional(donde se carga toda la info de la empresa) 
-y otra para el modelo analítico (donde cargamos nuestro modelo en estrella).
+2 BBDD: una para la parte operacional(donde se carga toda la info de la empresa) adventureworks
+y otra para el modelo analítico (donde cargamos nuestro modelo en estrella). adventureworks_DWH
+
+- hay que analizar la calidad de los datos que se cargan. Valen esos datos para algo o no?
+están los campos vacíos o rellenos?
+Necesitamos un modelo final consistente
