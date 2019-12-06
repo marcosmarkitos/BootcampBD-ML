@@ -1,0 +1,296 @@
+producto_id;product_number;nombre;interno;vendible;color;talla;peso;linea;clase;estilo;categoria;subcategoria
+1;FR-R92B-58;HL Road Frame - Black, 58;t;t;Black;58;2.24;Road;Alta;Universal;Components;Road Frames
+2;FR-R92R-58;HL Road Frame - Red, 58;t;t;Red;58;2.24;Road;Alta;Universal;Components;Road Frames
+3;HL-U509-R;Sport-100 Helmet, Red;f;t;Red;No aplica;;Standard;Unica;Universal;Accessories;Helmets
+4;HL-U509;Sport-100 Helmet, Black;f;t;Black;No aplica;;Standard;Unica;Universal;Accessories;Helmets
+5;SO-B909-M;Mountain Bike Socks, M;f;t;White;M;;Mountain;Unica;Universal;Clothing;Socks
+6;SO-B909-L;Mountain Bike Socks, L;f;t;White;L;;Mountain;Unica;Universal;Clothing;Socks
+7;HL-U509-B;Sport-100 Helmet, Blue;f;t;Blue;No aplica;;Standard;Unica;Universal;Accessories;Helmets
+8;CA-1098;AWC Logo Cap;f;t;Multi;No aplica;;Standard;Unica;Universal;Clothing;Caps
+9;LJ-0192-S;Long-Sleeve Logo Jersey, S;f;t;Multi;S;;Standard;Unica;Universal;Clothing;Jerseys
+10;LJ-0192-M;Long-Sleeve Logo Jersey, M;f;t;Multi;M;;Standard;Unica;Universal;Clothing;Jerseys
+11;LJ-0192-L;Long-Sleeve Logo Jersey, L;f;t;Multi;L;;Standard;Unica;Universal;Clothing;Jerseys
+12;LJ-0192-X;Long-Sleeve Logo Jersey, XL;f;t;Multi;XL;;Standard;Unica;Universal;Clothing;Jerseys
+13;FR-R92R-62;HL Road Frame - Red, 62;t;t;Red;62;2.30;Road;Alta;Universal;Components;Road Frames
+14;FR-R92R-44;HL Road Frame - Red, 44;t;t;Red;44;2.12;Road;Alta;Universal;Components;Road Frames
+15;FR-R92R-48;HL Road Frame - Red, 48;t;t;Red;48;2.16;Road;Alta;Universal;Components;Road Frames
+16;FR-R92R-52;HL Road Frame - Red, 52;t;t;Red;52;2.20;Road;Alta;Universal;Components;Road Frames
+17;FR-R92R-56;HL Road Frame - Red, 56;t;t;Red;56;2.24;Road;Alta;Universal;Components;Road Frames
+18;FR-R38B-58;LL Road Frame - Black, 58;t;t;Black;58;2.46;Road;Baja;Universal;Components;Road Frames
+19;FR-R38B-60;LL Road Frame - Black, 60;t;t;Black;60;2.48;Road;Baja;Universal;Components;Road Frames
+20;FR-R38B-62;LL Road Frame - Black, 62;t;t;Black;62;2.50;Road;Baja;Universal;Components;Road Frames
+21;FR-R38R-44;LL Road Frame - Red, 44;t;t;Red;44;2.32;Road;Baja;Universal;Components;Road Frames
+22;FR-R38R-48;LL Road Frame - Red, 48;t;t;Red;48;2.36;Road;Baja;Universal;Components;Road Frames
+23;FR-R38R-52;LL Road Frame - Red, 52;t;t;Red;52;2.40;Road;Baja;Universal;Components;Road Frames
+24;FR-R38R-58;LL Road Frame - Red, 58;t;t;Red;58;2.46;Road;Baja;Universal;Components;Road Frames
+25;FR-R38R-60;LL Road Frame - Red, 60;t;t;Red;60;2.48;Road;Baja;Universal;Components;Road Frames
+26;FR-R38R-62;LL Road Frame - Red, 62;t;t;Red;62;2.50;Road;Baja;Universal;Components;Road Frames
+27;FR-R72R-44;ML Road Frame - Red, 44;t;t;Red;44;2.22;Road;Media;Universal;Components;Road Frames
+28;FR-R72R-48;ML Road Frame - Red, 48;t;t;Red;48;2.26;Road;Media;Universal;Components;Road Frames
+29;FR-R72R-52;ML Road Frame - Red, 52;t;t;Red;52;2.30;Road;Media;Universal;Components;Road Frames
+30;FR-R72R-58;ML Road Frame - Red, 58;t;t;Red;58;2.36;Road;Media;Universal;Components;Road Frames
+31;FR-R72R-60;ML Road Frame - Red, 60;t;t;Red;60;2.38;Road;Media;Universal;Components;Road Frames
+32;FR-R38B-44;LL Road Frame - Black, 44;t;t;Black;44;2.32;Road;Baja;Universal;Components;Road Frames
+33;FR-R38B-48;LL Road Frame - Black, 48;t;t;Black;48;2.36;Road;Baja;Universal;Components;Road Frames
+34;FR-R38B-52;LL Road Frame - Black, 52;t;t;Black;52;2.40;Road;Baja;Universal;Components;Road Frames
+35;FR-M94S-42;HL Mountain Frame - Silver, 42;t;t;Silver;42;2.72;Mountain;Alta;Universal;Components;Mountain Frames
+36;FR-M94S-44;HL Mountain Frame - Silver, 44;t;t;Silver;44;2.76;Mountain;Alta;Universal;Components;Mountain Frames
+37;FR-M94S-52;HL Mountain Frame - Silver, 48;t;t;Silver;48;2.80;Mountain;Alta;Universal;Components;Mountain Frames
+38;FR-M94S-46;HL Mountain Frame - Silver, 46;t;t;Silver;46;2.84;Mountain;Alta;Universal;Components;Mountain Frames
+39;FR-M94B-42;HL Mountain Frame - Black, 42;t;t;Black;42;2.72;Mountain;Alta;Universal;Components;Mountain Frames
+40;FR-M94B-44;HL Mountain Frame - Black, 44;t;t;Black;44;2.76;Mountain;Alta;Universal;Components;Mountain Frames
+41;FR-M94B-48;HL Mountain Frame - Black, 48;t;t;Black;48;2.80;Mountain;Alta;Universal;Components;Mountain Frames
+42;FR-M94B-46;HL Mountain Frame - Black, 46;t;t;Black;46;2.84;Mountain;Alta;Universal;Components;Mountain Frames
+43;FR-M94B-38;HL Mountain Frame - Black, 38;t;t;Black;38;2.68;Mountain;Alta;Universal;Components;Mountain Frames
+44;FR-M94S-38;HL Mountain Frame - Silver, 38;t;t;Silver;38;2.68;Mountain;Alta;Universal;Components;Mountain Frames
+45;BK-R93R-62;Road-150 Red, 62;t;t;Red;62;15.00;Road;Alta;Universal;Bikes;Road Bikes
+46;BK-R93R-44;Road-150 Red, 44;t;t;Red;44;13.77;Road;Alta;Universal;Bikes;Road Bikes
+47;BK-R93R-48;Road-150 Red, 48;t;t;Red;48;14.13;Road;Alta;Universal;Bikes;Road Bikes
+48;BK-R93R-52;Road-150 Red, 52;t;t;Red;52;14.42;Road;Alta;Universal;Bikes;Road Bikes
+49;BK-R93R-56;Road-150 Red, 56;t;t;Red;56;14.68;Road;Alta;Universal;Bikes;Road Bikes
+50;BK-R68R-58;Road-450 Red, 58;t;t;Red;58;17.79;Road;Media;Universal;Bikes;Road Bikes
+51;BK-R68R-60;Road-450 Red, 60;t;t;Red;60;17.90;Road;Media;Universal;Bikes;Road Bikes
+52;BK-R68R-44;Road-450 Red, 44;t;t;Red;44;16.77;Road;Media;Universal;Bikes;Road Bikes
+53;BK-R68R-48;Road-450 Red, 48;t;t;Red;48;17.13;Road;Media;Universal;Bikes;Road Bikes
+54;BK-R68R-52;Road-450 Red, 52;t;t;Red;52;17.42;Road;Media;Universal;Bikes;Road Bikes
+55;BK-R50R-58;Road-650 Red, 58;t;t;Red;58;19.79;Road;Baja;Universal;Bikes;Road Bikes
+56;BK-R50R-60;Road-650 Red, 60;t;t;Red;60;19.90;Road;Baja;Universal;Bikes;Road Bikes
+57;BK-R50R-62;Road-650 Red, 62;t;t;Red;62;20.00;Road;Baja;Universal;Bikes;Road Bikes
+58;BK-R50R-44;Road-650 Red, 44;t;t;Red;44;18.77;Road;Baja;Universal;Bikes;Road Bikes
+59;BK-R50R-48;Road-650 Red, 48;t;t;Red;48;19.13;Road;Baja;Universal;Bikes;Road Bikes
+60;BK-R50R-52;Road-650 Red, 52;t;t;Red;52;19.42;Road;Baja;Universal;Bikes;Road Bikes
+61;BK-R50B-58;Road-650 Black, 58;t;t;Black;58;19.79;Road;Baja;Universal;Bikes;Road Bikes
+62;BK-R50B-60;Road-650 Black, 60;t;t;Black;60;19.90;Road;Baja;Universal;Bikes;Road Bikes
+63;BK-R50B-62;Road-650 Black, 62;t;t;Black;62;20.00;Road;Baja;Universal;Bikes;Road Bikes
+64;BK-R50B-44;Road-650 Black, 44;t;t;Black;44;18.77;Road;Baja;Universal;Bikes;Road Bikes
+65;BK-R50B-48;Road-650 Black, 48;t;t;Black;48;19.13;Road;Baja;Universal;Bikes;Road Bikes
+66;BK-R50B-52;Road-650 Black, 52;t;t;Black;52;19.42;Road;Baja;Universal;Bikes;Road Bikes
+67;BK-M82S-38;Mountain-100 Silver, 38;t;t;Silver;38;20.35;Mountain;Alta;Universal;Bikes;Mountain Bikes
+68;BK-M82S-42;Mountain-100 Silver, 42;t;t;Silver;42;20.77;Mountain;Alta;Universal;Bikes;Mountain Bikes
+69;BK-M82S-44;Mountain-100 Silver, 44;t;t;Silver;44;21.13;Mountain;Alta;Universal;Bikes;Mountain Bikes
+70;BK-M82S-48;Mountain-100 Silver, 48;t;t;Silver;48;21.42;Mountain;Alta;Universal;Bikes;Mountain Bikes
+71;BK-M82B-38;Mountain-100 Black, 38;t;t;Black;38;20.35;Mountain;Alta;Universal;Bikes;Mountain Bikes
+72;BK-M82B-42;Mountain-100 Black, 42;t;t;Black;42;20.77;Mountain;Alta;Universal;Bikes;Mountain Bikes
+73;BK-M82B-44;Mountain-100 Black, 44;t;t;Black;44;21.13;Mountain;Alta;Universal;Bikes;Mountain Bikes
+74;BK-M82B-48;Mountain-100 Black, 48;t;t;Black;48;21.42;Mountain;Alta;Universal;Bikes;Mountain Bikes
+75;BK-M68S-38;Mountain-200 Silver, 38;t;t;Silver;38;23.35;Mountain;Alta;Universal;Bikes;Mountain Bikes
+76;BK-M68S-42;Mountain-200 Silver, 42;t;t;Silver;42;23.77;Mountain;Alta;Universal;Bikes;Mountain Bikes
+77;BK-M68S-46;Mountain-200 Silver, 46;t;t;Silver;46;24.13;Mountain;Alta;Universal;Bikes;Mountain Bikes
+78;BK-M68B-38;Mountain-200 Black, 38;t;t;Black;38;23.35;Mountain;Alta;Universal;Bikes;Mountain Bikes
+79;BK-M68B-42;Mountain-200 Black, 42;t;t;Black;42;23.77;Mountain;Alta;Universal;Bikes;Mountain Bikes
+80;BK-M68B-46;Mountain-200 Black, 46;t;t;Black;46;24.13;Mountain;Alta;Universal;Bikes;Mountain Bikes
+81;BK-M47B-38;Mountain-300 Black, 38;t;t;Black;38;25.35;Mountain;Media;Universal;Bikes;Mountain Bikes
+82;BK-M47B-40;Mountain-300 Black, 40;t;t;Black;40;25.77;Mountain;Media;Universal;Bikes;Mountain Bikes
+83;BK-M47B-44;Mountain-300 Black, 44;t;t;Black;44;26.13;Mountain;Media;Universal;Bikes;Mountain Bikes
+84;BK-M47B-48;Mountain-300 Black, 48;t;t;Black;48;26.42;Mountain;Media;Universal;Bikes;Mountain Bikes
+85;BK-R89R-44;Road-250 Red, 44;t;t;Red;44;14.77;Road;Alta;Universal;Bikes;Road Bikes
+86;BK-R89R-48;Road-250 Red, 48;t;t;Red;48;15.13;Road;Alta;Universal;Bikes;Road Bikes
+87;BK-R89R-52;Road-250 Red, 52;t;t;Red;52;15.42;Road;Alta;Universal;Bikes;Road Bikes
+88;BK-R89R-58;Road-250 Red, 58;t;t;Red;58;15.79;Road;Alta;Universal;Bikes;Road Bikes
+89;BK-R89B-44;Road-250 Black, 44;t;t;Black;44;14.77;Road;Alta;Universal;Bikes;Road Bikes
+90;BK-R89B-48;Road-250 Black, 48;t;t;Black;48;15.13;Road;Alta;Universal;Bikes;Road Bikes
+91;BK-R89B-52;Road-250 Black, 52;t;t;Black;52;15.42;Road;Alta;Universal;Bikes;Road Bikes
+92;BK-R89B-58;Road-250 Black, 58;t;t;Black;58;15.68;Road;Alta;Universal;Bikes;Road Bikes
+93;BK-R64Y-38;Road-550-W Yellow, 38;t;t;Yellow;38;17.35;Road;Media;Mujer;Bikes;Road Bikes
+94;BK-R64Y-40;Road-550-W Yellow, 40;t;t;Yellow;40;17.77;Road;Media;Mujer;Bikes;Road Bikes
+95;BK-R64Y-42;Road-550-W Yellow, 42;t;t;Yellow;42;18.13;Road;Media;Mujer;Bikes;Road Bikes
+96;BK-R64Y-44;Road-550-W Yellow, 44;t;t;Yellow;44;18.42;Road;Media;Mujer;Bikes;Road Bikes
+97;BK-R64Y-48;Road-550-W Yellow, 48;t;t;Yellow;48;18.68;Road;Media;Mujer;Bikes;Road Bikes
+98;FK-1639;LL Fork;t;t;No aplica;No aplica;;General;Baja;Universal;Components;Forks
+99;FK-5136;ML Fork;t;t;No aplica;No aplica;;General;Media;Universal;Components;Forks
+100;FK-9939;HL Fork;t;t;No aplica;No aplica;;General;Alta;Universal;Components;Forks
+101;HS-0296;LL Headset;t;t;No aplica;No aplica;;General;Baja;Universal;Components;Headsets
+102;HS-2451;ML Headset;t;t;No aplica;No aplica;;General;Media;Universal;Components;Headsets
+103;HS-3479;HL Headset;t;t;No aplica;No aplica;;General;Alta;Universal;Components;Headsets
+104;HB-M243;LL Mountain Handlebars;t;t;No aplica;No aplica;;Mountain;Baja;Universal;Components;Handlebars
+105;HB-M763;ML Mountain Handlebars;t;t;No aplica;No aplica;;Mountain;Media;Universal;Components;Handlebars
+106;HB-M918;HL Mountain Handlebars;t;t;No aplica;No aplica;;Mountain;Alta;Universal;Components;Handlebars
+107;HB-R504;LL Road Handlebars;t;t;No aplica;No aplica;;Road;Baja;Universal;Components;Handlebars
+108;HB-R720;ML Road Handlebars;t;t;No aplica;No aplica;;Road;Media;Universal;Components;Handlebars
+109;HB-R956;HL Road Handlebars;t;t;No aplica;No aplica;;Road;Alta;Universal;Components;Handlebars
+110;FR-M63B-38;ML Mountain Frame - Black, 38;t;t;Black;38;2.73;Mountain;Media;Universal;Components;Mountain Frames
+111;FW-M423;LL Mountain Front Wheel;t;t;Black;No aplica;;Mountain;Baja;Universal;Components;Wheels
+112;FW-M762;ML Mountain Front Wheel;t;t;Black;No aplica;;Mountain;Media;Universal;Components;Wheels
+113;FW-M928;HL Mountain Front Wheel;t;t;Black;No aplica;;Mountain;Alta;Universal;Components;Wheels
+114;FW-R623;LL Road Front Wheel;t;t;Black;No aplica;900.00;Road;Baja;Universal;Components;Wheels
+115;FW-R762;ML Road Front Wheel;t;t;Black;No aplica;850.00;Road;Media;Universal;Components;Wheels
+116;FW-R820;HL Road Front Wheel;t;t;Black;No aplica;650.00;Road;Alta;Universal;Components;Wheels
+117;FW-T905;Touring Front Wheel;t;t;Black;No aplica;;Touring;Unica;Universal;Components;Wheels
+118;FR-R72Y-38;ML Road Frame-W - Yellow, 38;t;t;Yellow;38;2.18;Road;Media;Mujer;Components;Road Frames
+119;RW-M423;LL Mountain Rear Wheel;t;t;Black;No aplica;;Mountain;Baja;Universal;Components;Wheels
+120;RW-M762;ML Mountain Rear Wheel;t;t;Black;No aplica;;Mountain;Media;Universal;Components;Wheels
+121;RW-M928;HL Mountain Rear Wheel;t;t;Black;No aplica;;Mountain;Alta;Universal;Components;Wheels
+122;RW-R623;LL Road Rear Wheel;t;t;Black;No aplica;1050.00;Road;Baja;Universal;Components;Wheels
+123;RW-R762;ML Road Rear Wheel;t;t;Black;No aplica;1000.00;Road;Media;Universal;Components;Wheels
+124;RW-R820;HL Road Rear Wheel;t;t;Black;No aplica;890.00;Road;Alta;Universal;Components;Wheels
+125;RW-T905;Touring Rear Wheel;t;t;Black;No aplica;;Touring;Unica;Universal;Components;Wheels
+126;FR-M63B-40;ML Mountain Frame - Black, 40;t;t;Black;40;2.77;Mountain;Media;Universal;Components;Mountain Frames
+127;FR-M63B-44;ML Mountain Frame - Black, 44;t;t;Black;44;2.81;Mountain;Media;Universal;Components;Mountain Frames
+128;FR-M63B-48;ML Mountain Frame - Black, 48;t;t;Black;48;2.85;Mountain;Media;Universal;Components;Mountain Frames
+129;FR-R72Y-40;ML Road Frame-W - Yellow, 40;t;t;Yellow;40;2.22;Road;Media;Mujer;Components;Road Frames
+130;FR-R72Y-42;ML Road Frame-W - Yellow, 42;t;t;Yellow;42;2.26;Road;Media;Mujer;Components;Road Frames
+131;FR-R72Y-44;ML Road Frame-W - Yellow, 44;t;t;Yellow;44;2.30;Road;Media;Mujer;Components;Road Frames
+132;FR-R72Y-48;ML Road Frame-W - Yellow, 48;t;t;Yellow;48;2.34;Road;Media;Mujer;Components;Road Frames
+133;FR-R92B-62;HL Road Frame - Black, 62;t;t;Black;62;2.30;Road;Alta;Universal;Components;Road Frames
+134;FR-R92B-44;HL Road Frame - Black, 44;t;t;Black;44;2.12;Road;Alta;Universal;Components;Road Frames
+135;FR-R92B-48;HL Road Frame - Black, 48;t;t;Black;48;2.16;Road;Alta;Universal;Components;Road Frames
+136;FR-R92B-52;HL Road Frame - Black, 52;t;t;Black;52;2.20;Road;Alta;Universal;Components;Road Frames
+137;SH-M897-S;Men's Sports Shorts, S;f;t;Black;S;;Standard;Unica;Hombre;Clothing;Shorts
+138;PA-T100;Touring-Panniers, Large;f;t;Grey;No aplica;;Touring;Unica;Universal;Accessories;Panniers
+139;LO-C100;Cable Lock;f;t;No aplica;No aplica;;Standard;Unica;Universal;Accessories;Locks
+140;PU-0452;Minipump;f;t;No aplica;No aplica;;Standard;Unica;Universal;Accessories;Pumps
+141;PU-M044;Mountain Pump;f;t;No aplica;No aplica;;Mountain;Unica;Universal;Accessories;Pumps
+142;LT-T990;Taillights - Battery-Powered;f;t;No aplica;No aplica;;Road;Unica;Universal;Accessories;Lights
+143;LT-H902;Headlights - Dual-Beam;f;t;No aplica;No aplica;;Road;Unica;Universal;Accessories;Lights
+144;LT-H903;Headlights - Weatherproof;f;t;No aplica;No aplica;;Road;Unica;Universal;Accessories;Lights
+145;SH-M897-M;Men's Sports Shorts, M;f;t;Black;M;;Standard;Unica;Hombre;Clothing;Shorts
+146;SH-M897-L;Men's Sports Shorts, L;f;t;Black;L;;Standard;Unica;Hombre;Clothing;Shorts
+147;SH-M897-X;Men's Sports Shorts, XL;f;t;Black;XL;;Standard;Unica;Hombre;Clothing;Shorts
+148;TG-W091-S;Women's Tights, S;f;t;Black;S;;Standard;Unica;Mujer;Clothing;Tights
+149;TG-W091-M;Women's Tights, M;f;t;Black;M;;Standard;Unica;Mujer;Clothing;Tights
+150;TG-W091-L;Women's Tights, L;f;t;Black;L;;Standard;Unica;Mujer;Clothing;Tights
+151;SB-M891-S;Men's Bib-Shorts, S;f;t;Multi;S;;Standard;Unica;Hombre;Clothing;Bib-Shorts
+152;SB-M891-M;Men's Bib-Shorts, M;f;t;Multi;M;;Standard;Unica;Hombre;Clothing;Bib-Shorts
+153;SB-M891-L;Men's Bib-Shorts, L;f;t;Multi;L;;Standard;Unica;Hombre;Clothing;Bib-Shorts
+154;GL-H102-S;Half-Finger Gloves, S;f;t;Black;S;;Standard;Unica;Universal;Clothing;Gloves
+155;GL-H102-M;Half-Finger Gloves, M;f;t;Black;M;;Standard;Unica;Universal;Clothing;Gloves
+156;GL-H102-L;Half-Finger Gloves, L;f;t;Black;L;;Standard;Unica;Universal;Clothing;Gloves
+157;GL-F110-S;Full-Finger Gloves, S;f;t;Black;S;;Mountain;Unica;Universal;Clothing;Gloves
+158;GL-F110-M;Full-Finger Gloves, M;f;t;Black;M;;Mountain;Unica;Universal;Clothing;Gloves
+159;GL-F110-L;Full-Finger Gloves, L;f;t;Black;L;;Mountain;Unica;Universal;Clothing;Gloves
+160;VE-C304-S;Classic Vest, S;f;t;Blue;S;;Standard;Unica;Universal;Clothing;Vests
+161;VE-C304-M;Classic Vest, M;f;t;Blue;M;;Standard;Unica;Universal;Clothing;Vests
+162;VE-C304-L;Classic Vest, L;f;t;Blue;L;;Standard;Unica;Universal;Clothing;Vests
+163;SH-W890-S;Women's Mountain Shorts, S;f;t;Black;S;;Mountain;Unica;Mujer;Clothing;Shorts
+164;SH-W890-M;Women's Mountain Shorts, M;f;t;Black;M;;Mountain;Unica;Mujer;Clothing;Shorts
+165;SH-W890-L;Women's Mountain Shorts, L;f;t;Black;L;;Mountain;Unica;Mujer;Clothing;Shorts
+166;WB-H098;Water Bottle - 30 oz.;f;t;No aplica;No aplica;;Standard;Unica;Universal;Accessories;Bottles and Cages
+167;BC-M005;Mountain Bottle Cage;f;t;No aplica;No aplica;;Mountain;Unica;Universal;Accessories;Bottles and Cages
+168;BC-R205;Road Bottle Cage;f;t;No aplica;No aplica;;Road;Unica;Universal;Accessories;Bottles and Cages
+169;PK-7098;Patch Kit/8 Patches;f;t;No aplica;No aplica;;Standard;Unica;Universal;Accessories;Tires and Tubes
+170;SO-R809-M;Racing Socks, M;f;t;White;M;;Road;Unica;Universal;Clothing;Socks
+171;SO-R809-L;Racing Socks, L;f;t;White;L;;Road;Unica;Universal;Clothing;Socks
+172;RA-H123;Hitch Rack - 4-Bike;f;t;No aplica;No aplica;;Standard;Unica;Universal;Accessories;Bike Racks
+173;CL-9009;Bike Wash - Dissolver;f;t;No aplica;No aplica;;Standard;Unica;Universal;Accessories;Cleaners
+174;FE-6654;Fender Set - Mountain;f;t;No aplica;No aplica;;Mountain;Unica;Universal;Accessories;Fenders
+175;ST-1401;All-Purpose Bike Stand;f;t;No aplica;No aplica;;Mountain;Unica;Universal;Accessories;Bike Stands
+176;HY-1023-70;Hydration Pack - 70 oz.;f;t;Silver;70;;Standard;Unica;Universal;Accessories;Hydration Packs
+177;SJ-0194-S;Short-Sleeve Classic Jersey, S;f;t;Yellow;S;;Standard;Unica;Universal;Clothing;Jerseys
+178;SJ-0194-M;Short-Sleeve Classic Jersey, M;f;t;Yellow;M;;Standard;Unica;Universal;Clothing;Jerseys
+179;SJ-0194-L;Short-Sleeve Classic Jersey, L;f;t;Yellow;L;;Standard;Unica;Universal;Clothing;Jerseys
+180;SJ-0194-X;Short-Sleeve Classic Jersey, XL;f;t;Yellow;XL;;Standard;Unica;Universal;Clothing;Jerseys
+181;FR-T98Y-60;HL Touring Frame - Yellow, 60;t;t;Yellow;60;3.08;Touring;Alta;Universal;Components;Touring Frames
+182;FR-T67Y-62;LL Touring Frame - Yellow, 62;t;t;Yellow;62;3.20;Touring;Baja;Universal;Components;Touring Frames
+183;FR-T98Y-46;HL Touring Frame - Yellow, 46;t;t;Yellow;46;2.96;Touring;Alta;Universal;Components;Touring Frames
+184;FR-T98Y-50;HL Touring Frame - Yellow, 50;t;t;Yellow;50;3.00;Touring;Alta;Universal;Components;Touring Frames
+185;FR-T98Y-54;HL Touring Frame - Yellow, 54;t;t;Yellow;54;3.04;Touring;Alta;Universal;Components;Touring Frames
+186;FR-T98U-46;HL Touring Frame - Blue, 46;t;t;Blue;46;2.96;Touring;Alta;Universal;Components;Touring Frames
+187;FR-T98U-50;HL Touring Frame - Blue, 50;t;t;Blue;50;3.00;Touring;Alta;Universal;Components;Touring Frames
+188;FR-T98U-54;HL Touring Frame - Blue, 54;t;t;Blue;54;3.04;Touring;Alta;Universal;Components;Touring Frames
+189;FR-T98U-60;HL Touring Frame - Blue, 60;t;t;Blue;60;3.08;Touring;Alta;Universal;Components;Touring Frames
+190;RD-2308;Rear Derailleur;t;t;Silver;No aplica;215.00;General;Unica;Universal;Components;Derailleurs
+191;FR-T67U-50;LL Touring Frame - Blue, 50;t;t;Blue;50;3.10;Touring;Baja;Universal;Components;Touring Frames
+192;FR-T67U-54;LL Touring Frame - Blue, 54;t;t;Blue;54;3.14;Touring;Baja;Universal;Components;Touring Frames
+193;FR-T67U-58;LL Touring Frame - Blue, 58;t;t;Blue;58;3.16;Touring;Baja;Universal;Components;Touring Frames
+194;FR-T67U-62;LL Touring Frame - Blue, 62;t;t;Blue;62;3.20;Touring;Baja;Universal;Components;Touring Frames
+195;FR-T67Y-44;LL Touring Frame - Yellow, 44;t;t;Yellow;44;3.02;Touring;Baja;Universal;Components;Touring Frames
+196;FR-T67Y-50;LL Touring Frame - Yellow, 50;t;t;Yellow;50;3.10;Touring;Baja;Universal;Components;Touring Frames
+197;FR-T67Y-54;LL Touring Frame - Yellow, 54;t;t;Yellow;54;3.14;Touring;Baja;Universal;Components;Touring Frames
+198;FR-T67Y-58;LL Touring Frame - Yellow, 58;t;t;Yellow;58;3.16;Touring;Baja;Universal;Components;Touring Frames
+199;FR-T67U-44;LL Touring Frame - Blue, 44;t;t;Blue;44;3.02;Touring;Baja;Universal;Components;Touring Frames
+200;FR-M63S-40;ML Mountain Frame-W - Silver, 40;t;t;Silver;40;2.77;Mountain;Media;Mujer;Components;Mountain Frames
+201;FR-M63S-42;ML Mountain Frame-W - Silver, 42;t;t;Silver;42;2.81;Mountain;Media;Mujer;Components;Mountain Frames
+202;FR-M63S-46;ML Mountain Frame-W - Silver, 46;t;t;Silver;46;2.85;Mountain;Media;Mujer;Components;Mountain Frames
+203;RB-9231;Rear Brakes;f;t;Silver;No aplica;317.00;General;Unica;Universal;Components;Brakes
+204;SE-M236;LL Mountain Seat/Saddle;f;t;No aplica;No aplica;;Mountain;Baja;Universal;Components;Saddles
+205;SE-M798;ML Mountain Seat/Saddle;f;t;No aplica;No aplica;;Mountain;Media;Universal;Components;Saddles
+206;SE-M940;HL Mountain Seat/Saddle;f;t;No aplica;No aplica;;Mountain;Alta;Universal;Components;Saddles
+207;SE-R581;LL Road Seat/Saddle;f;t;No aplica;No aplica;;Road;Baja;Universal;Components;Saddles
+208;SE-R908;ML Road Seat/Saddle;f;t;No aplica;No aplica;;Touring;Media;Universal;Components;Saddles
+209;SE-R995;HL Road Seat/Saddle;f;t;No aplica;No aplica;;Road;Alta;Universal;Components;Saddles
+210;SE-T312;LL Touring Seat/Saddle;f;t;No aplica;No aplica;;Touring;Baja;Universal;Components;Saddles
+211;SE-T762;ML Touring Seat/Saddle;f;t;No aplica;No aplica;;Touring;Media;Universal;Components;Saddles
+212;SE-T924;HL Touring Seat/Saddle;f;t;No aplica;No aplica;;Touring;Alta;Universal;Components;Saddles
+213;FR-M21S-42;LL Mountain Frame - Silver, 42;t;t;Silver;42;2.92;Mountain;Baja;Universal;Components;Mountain Frames
+214;FR-M21S-44;LL Mountain Frame - Silver, 44;t;t;Silver;44;2.96;Mountain;Baja;Universal;Components;Mountain Frames
+215;FR-M21S-48;LL Mountain Frame - Silver, 48;t;t;Silver;48;3.00;Mountain;Baja;Universal;Components;Mountain Frames
+216;FR-M21S-52;LL Mountain Frame - Silver, 52;t;t;Silver;52;3.04;Mountain;Baja;Universal;Components;Mountain Frames
+217;TT-M928;Mountain Tire Tube;f;t;No aplica;No aplica;;Mountain;Unica;Universal;Accessories;Tires and Tubes
+218;TT-R982;Road Tire Tube;f;t;No aplica;No aplica;;Road;Unica;Universal;Accessories;Tires and Tubes
+219;TT-T092;Touring Tire Tube;f;t;No aplica;No aplica;;Touring;Unica;Universal;Accessories;Tires and Tubes
+220;FR-M21B-42;LL Mountain Frame - Black, 42;t;t;Black;42;2.92;Mountain;Baja;Universal;Components;Mountain Frames
+221;FR-M21B-44;LL Mountain Frame - Black, 44;t;t;Black;44;2.96;Mountain;Baja;Universal;Components;Mountain Frames
+222;FR-M21B-48;LL Mountain Frame - Black, 48;t;t;Black;48;3.00;Mountain;Baja;Universal;Components;Mountain Frames
+223;FR-M21B-52;LL Mountain Frame - Black, 52;t;t;Black;52;3.04;Mountain;Baja;Universal;Components;Mountain Frames
+224;TI-M267;LL Mountain Tire;f;t;No aplica;No aplica;;Mountain;Baja;Universal;Accessories;Tires and Tubes
+225;TI-M602;ML Mountain Tire;f;t;No aplica;No aplica;;Mountain;Media;Universal;Accessories;Tires and Tubes
+226;TI-M823;HL Mountain Tire;f;t;No aplica;No aplica;;Mountain;Alta;Universal;Accessories;Tires and Tubes
+227;TI-R092;LL Road Tire;f;t;No aplica;No aplica;;Road;Baja;Universal;Accessories;Tires and Tubes
+228;TI-R628;ML Road Tire;f;t;No aplica;No aplica;;Road;Media;Universal;Accessories;Tires and Tubes
+229;TI-R982;HL Road Tire;f;t;No aplica;No aplica;;Road;Alta;Universal;Accessories;Tires and Tubes
+230;TI-T723;Touring Tire;f;t;No aplica;No aplica;;Touring;Unica;Universal;Accessories;Tires and Tubes
+231;PD-M282;LL Mountain Pedal;f;t;Silver/Black;No aplica;218.00;Mountain;Baja;Universal;Components;Pedals
+232;PD-M340;ML Mountain Pedal;f;t;Silver/Black;No aplica;215.00;Mountain;Media;Universal;Components;Pedals
+233;PD-M562;HL Mountain Pedal;f;t;Silver/Black;No aplica;185.00;Mountain;Alta;Universal;Components;Pedals
+234;PD-R347;LL Road Pedal;f;t;Silver/Black;No aplica;189.00;Road;Baja;Universal;Components;Pedals
+235;PD-R563;ML Road Pedal;f;t;Silver/Black;No aplica;168.00;Road;Media;Universal;Components;Pedals
+236;PD-R853;HL Road Pedal;f;t;Silver/Black;No aplica;149.00;Road;Alta;Universal;Components;Pedals
+237;PD-T852;Touring Pedal;f;t;Silver/Black;No aplica;;Touring;Unica;Universal;Components;Pedals
+238;FR-M63S-38;ML Mountain Frame-W - Silver, 38;t;t;Silver;38;2.73;Mountain;Media;Mujer;Components;Mountain Frames
+239;FR-M21B-40;LL Mountain Frame - Black, 40;t;t;Black;40;2.88;Mountain;Baja;Universal;Components;Mountain Frames
+240;FR-M21S-40;LL Mountain Frame - Silver, 40;t;t;Silver;40;2.88;Mountain;Baja;Universal;Components;Mountain Frames
+241;FD-2342;Front Derailleur;t;t;Silver;No aplica;88.00;General;Unica;Universal;Components;Derailleurs
+242;HB-T721;LL Touring Handlebars;t;t;No aplica;No aplica;;Touring;Baja;Universal;Components;Handlebars
+243;HB-T928;HL Touring Handlebars;t;t;No aplica;No aplica;;Touring;Alta;Universal;Components;Handlebars
+244;FB-9873;Front Brakes;f;t;Silver;No aplica;317.00;General;Unica;Universal;Components;Brakes
+245;CS-4759;LL Crankset;t;t;Black;No aplica;600.00;General;Baja;Universal;Components;Cranksets
+246;CS-6583;ML Crankset;t;t;Black;No aplica;635.00;General;Media;Universal;Components;Cranksets
+247;CS-9183;HL Crankset;t;t;Black;No aplica;575.00;General;Alta;Universal;Components;Cranksets
+248;CH-0234;Chain;f;t;Silver;No aplica;;General;Unica;Universal;Components;Chains
+249;BK-T44U-60;Touring-2000 Blue, 60;t;t;Blue;60;27.90;Touring;Media;Universal;Bikes;Touring Bikes
+250;BK-T79Y-46;Touring-1000 Yellow, 46;t;t;Yellow;46;25.13;Touring;Alta;Universal;Bikes;Touring Bikes
+251;BK-T79Y-50;Touring-1000 Yellow, 50;t;t;Yellow;50;25.42;Touring;Alta;Universal;Bikes;Touring Bikes
+252;BK-T79Y-54;Touring-1000 Yellow, 54;t;t;Yellow;54;25.68;Touring;Alta;Universal;Bikes;Touring Bikes
+253;BK-T79Y-60;Touring-1000 Yellow, 60;t;t;Yellow;60;25.90;Touring;Alta;Universal;Bikes;Touring Bikes
+254;BK-T18U-54;Touring-3000 Blue, 54;t;t;Blue;54;29.68;Touring;Baja;Universal;Bikes;Touring Bikes
+255;BK-T18U-58;Touring-3000 Blue, 58;t;t;Blue;58;29.90;Touring;Baja;Universal;Bikes;Touring Bikes
+256;BK-T18U-62;Touring-3000 Blue, 62;t;t;Blue;62;30.00;Touring;Baja;Universal;Bikes;Touring Bikes
+257;BK-T18Y-44;Touring-3000 Yellow, 44;t;t;Yellow;44;28.77;Touring;Baja;Universal;Bikes;Touring Bikes
+258;BK-T18Y-50;Touring-3000 Yellow, 50;t;t;Yellow;50;29.13;Touring;Baja;Universal;Bikes;Touring Bikes
+259;BK-T18Y-54;Touring-3000 Yellow, 54;t;t;Yellow;54;29.42;Touring;Baja;Universal;Bikes;Touring Bikes
+260;BK-T18Y-58;Touring-3000 Yellow, 58;t;t;Yellow;58;29.79;Touring;Baja;Universal;Bikes;Touring Bikes
+261;BK-T18Y-62;Touring-3000 Yellow, 62;t;t;Yellow;62;30.00;Touring;Baja;Universal;Bikes;Touring Bikes
+262;BK-T79U-46;Touring-1000 Blue, 46;t;t;Blue;46;25.13;Touring;Alta;Universal;Bikes;Touring Bikes
+263;BK-T79U-50;Touring-1000 Blue, 50;t;t;Blue;50;25.42;Touring;Alta;Universal;Bikes;Touring Bikes
+264;BK-T79U-54;Touring-1000 Blue, 54;t;t;Blue;54;25.68;Touring;Alta;Universal;Bikes;Touring Bikes
+265;BK-T79U-60;Touring-1000 Blue, 60;t;t;Blue;60;25.90;Touring;Alta;Universal;Bikes;Touring Bikes
+266;BK-T44U-46;Touring-2000 Blue, 46;t;t;Blue;46;27.13;Touring;Media;Universal;Bikes;Touring Bikes
+267;BK-T44U-50;Touring-2000 Blue, 50;t;t;Blue;50;27.42;Touring;Media;Universal;Bikes;Touring Bikes
+268;BK-T44U-54;Touring-2000 Blue, 54;t;t;Blue;54;27.68;Touring;Media;Universal;Bikes;Touring Bikes
+269;BK-R79Y-40;Road-350-W Yellow, 40;t;t;Yellow;40;15.35;Road;Media;Mujer;Bikes;Road Bikes
+270;BK-R79Y-42;Road-350-W Yellow, 42;t;t;Yellow;42;15.77;Road;Media;Mujer;Bikes;Road Bikes
+271;BK-R79Y-44;Road-350-W Yellow, 44;t;t;Yellow;44;16.13;Road;Media;Mujer;Bikes;Road Bikes
+272;BK-R79Y-48;Road-350-W Yellow, 48;t;t;Yellow;48;16.42;Road;Media;Mujer;Bikes;Road Bikes
+273;BK-R19B-58;Road-750 Black, 58;t;t;Black;58;20.79;Road;Baja;Universal;Bikes;Road Bikes
+274;BK-T18U-44;Touring-3000 Blue, 44;t;t;Blue;44;28.77;Touring;Baja;Universal;Bikes;Touring Bikes
+275;BK-T18U-50;Touring-3000 Blue, 50;t;t;Blue;50;29.13;Touring;Baja;Universal;Bikes;Touring Bikes
+276;BK-M38S-38;Mountain-400-W Silver, 38;t;t;Silver;38;26.35;Mountain;Media;Mujer;Bikes;Mountain Bikes
+277;BK-M38S-40;Mountain-400-W Silver, 40;t;t;Silver;40;26.77;Mountain;Media;Mujer;Bikes;Mountain Bikes
+278;BK-M38S-42;Mountain-400-W Silver, 42;t;t;Silver;42;27.13;Mountain;Media;Mujer;Bikes;Mountain Bikes
+279;BK-M38S-46;Mountain-400-W Silver, 46;t;t;Silver;46;27.42;Mountain;Media;Mujer;Bikes;Mountain Bikes
+280;BK-M18S-40;Mountain-500 Silver, 40;t;t;Silver;40;27.35;Mountain;Baja;Universal;Bikes;Mountain Bikes
+281;BK-M18S-42;Mountain-500 Silver, 42;t;t;Silver;42;27.77;Mountain;Baja;Universal;Bikes;Mountain Bikes
+282;BK-M18S-44;Mountain-500 Silver, 44;t;t;Silver;44;28.13;Mountain;Baja;Universal;Bikes;Mountain Bikes
+283;BK-M18S-48;Mountain-500 Silver, 48;t;t;Silver;48;28.42;Mountain;Baja;Universal;Bikes;Mountain Bikes
+284;BK-M18S-52;Mountain-500 Silver, 52;t;t;Silver;52;28.68;Mountain;Baja;Universal;Bikes;Mountain Bikes
+285;BK-M18B-40;Mountain-500 Black, 40;t;t;Black;40;27.35;Mountain;Baja;Universal;Bikes;Mountain Bikes
+286;BK-M18B-42;Mountain-500 Black, 42;t;t;Black;42;27.77;Mountain;Baja;Universal;Bikes;Mountain Bikes
+287;BK-M18B-44;Mountain-500 Black, 44;t;t;Black;44;28.13;Mountain;Baja;Universal;Bikes;Mountain Bikes
+288;BK-M18B-48;Mountain-500 Black, 48;t;t;Black;48;28.42;Mountain;Baja;Universal;Bikes;Mountain Bikes
+289;BK-M18B-52;Mountain-500 Black, 52;t;t;Black;52;28.68;Mountain;Baja;Universal;Bikes;Mountain Bikes
+290;BB-7421;LL Bottom Bracket;t;t;No aplica;No aplica;223.00;General;Baja;Universal;Components;Bottom Brackets
+291;BB-8107;ML Bottom Bracket;t;t;No aplica;No aplica;168.00;General;Media;Universal;Components;Bottom Brackets
+292;BB-9108;HL Bottom Bracket;t;t;No aplica;No aplica;170.00;General;Alta;Universal;Components;Bottom Brackets
+293;BK-R19B-44;Road-750 Black, 44;t;t;Black;44;19.77;Road;Baja;Universal;Bikes;Road Bikes
+294;BK-R19B-48;Road-750 Black, 48;t;t;Black;48;20.13;Road;Baja;Universal;Bikes;Road Bikes
+295;BK-R19B-52;Road-750 Black, 52;t;t;Black;52;20.42;Road;Baja;Universal;Bikes;Road Bikes
