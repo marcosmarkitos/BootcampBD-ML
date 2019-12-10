@@ -1,0 +1,51 @@
+Preocupación por la protección de datos.
+
+1. recogida de datos
+2. almacenamiento
+3. Procesado de la info
+4. Identificación y gestión
+
+Características de cómo han evolucionado los datos:
+- globalización
+- internacionalización
+- datos muy heterogéneos (formatos)
+- datos muy personales
+
+preocupa el mal uso de los datos, políticas vagas (laxas) y anticuadas, y la evolución de la tecnologíaLa 
+
+diferentes normativas según cada país.
+
+Ojo con las sanciones: repercusión económica y de imagen/reputación
+la protección de los datos es cosa de toda la empresa. del primer al último empleado.
+
+las compañías tienen que cambiar su visión de esto. Es un riesgo para la empresa, más miedo que oportunidades, pero hay que darle una visión estratégica.
+
+la regulación empieza en los años 70 y ahora es cuando se ha mejorado el marco de actuación a nivel europeo.
+
+Qué se regula?
+- ¿qué es un dato personal? aquel que te identifica. Solo el nombre no sería.
+- Derechos ARCO: Acceder, rectificar, cancelación y oposición.
+- consentimiento: para un uso concreto. No vale uno único. Un consentimiento para cada uso.
+- criticidad: no todos los datos son igual de sensibles.
+- encargado del tratamiento: te doy esta BBDD para esto, no para esto otro.
+- importar/exportar datos personales: hay que avisar, no todos los países tienen la misma legislación.
+
+2016: Reglamento GDPR. Reglamento europeo de protección de datos personales.
+	es el mayor hito legislativo en materia de privacidad y proteción de DP.
+
+implica cambios organizativos: hay una persona responsable de esta info. Delegado de protección de datos. DPO (Data Proteccon Officer)
+	DPO: informar y asesorar al responsable/encargado del tratamiento
+	supervisar el cumplimiento
+	ofrecer asesoramiento
+	cooperar con la autoridad
+	actuar como pto de contacto de la autoridad
+	dar respuestas a los requerimientos de info por los titulares de los DP.
+
+LOPD (2007) en España: Ley orgánica de proteccion de datos
+RGPD en España: saca guías (impulsadas por AEPD) para indicar cómo cumplir el reglamento
+
+
+a la hora de diseñar no vale solo con hacer un sistema que cumpla cuando registras. Tiene que valer para el día a día.
+Tiene que ser capaz de reaccionar a cada cambio que se produzca.
+
+https://www.aepd.es/media/guias/guia-codigo-de-buenas-practicas-proyectos-de-big-data.pdf
