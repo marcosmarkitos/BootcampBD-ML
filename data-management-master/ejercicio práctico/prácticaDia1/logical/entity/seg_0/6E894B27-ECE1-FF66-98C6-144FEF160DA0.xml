@@ -1,0 +1,107 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="6E894B27-ECE1-FF66-98C6-144FEF160DA0" name="receta">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:57:06 UTC</createdTime>
+<generatorID>8A5E4C67-E483-9D31-6C5B-34C10C919C30</generatorID>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<engineerTo>
+<item key="C50F63DD-B96A-2BB7-5EB2-6E202C18F510" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="num rec" id="5C75B4CB-31F3-5DAC-DDB9-DEF4C0608096">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:57:06 UTC</createdTime>
+<generatorID>54DEC76F-49D0-F2CF-9294-15DE2E493686</generatorID>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<engineerTo>
+<item key="C50F63DD-B96A-2BB7-5EB2-6E202C18F510" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="medicamento" id="C007213B-9993-E402-B460-3185073EE5D0">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:57:06 UTC</createdTime>
+<generatorID>19496519-EF67-8DBF-B290-A9901F623D3A</generatorID>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<engineerTo>
+<item key="C50F63DD-B96A-2BB7-5EB2-6E202C18F510" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="num med" id="80C41A0F-0C7C-14DA-30E2-E0690E1FA35F">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:57:06 UTC</createdTime>
+<generatorID>C169B523-49C6-85D1-E234-FCF66A4E5ABD</generatorID>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<engineerTo>
+<item key="C50F63DD-B96A-2BB7-5EB2-6E202C18F510" value="true"/>
+</engineerTo>
+<referedAttribute>D725DC46-EE69-61AF-0B76-0684599456F3</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="num pac" id="41680E67-CC85-DEE6-EBA9-1F293C8782CF">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:57:06 UTC</createdTime>
+<generatorID>C169B523-49C6-85D1-E234-FCF66A4E5ABD</generatorID>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<engineerTo>
+<item key="C50F63DD-B96A-2BB7-5EB2-6E202C18F510" value="true"/>
+</engineerTo>
+<referedAttribute>F7620E4C-2227-5740-8185-E7D4247EA84F</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="fecha visita" id="1A480541-24CB-48EF-98AA-E0EF0CE7563A">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:57:06 UTC</createdTime>
+<generatorID>C169B523-49C6-85D1-E234-FCF66A4E5ABD</generatorID>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<engineerTo>
+<item key="C50F63DD-B96A-2BB7-5EB2-6E202C18F510" value="true"/>
+</engineerTo>
+<referedAttribute>9B9BDB43-6E0B-7FC2-F51C-E5651AF3BA0C</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="95E62FD6-C01B-1F1A-7E8D-48E9EFA09067" name="rec pk">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:57:06 UTC</createdTime>
+<generatorID>773466C0-F7B4-55C6-30D4-CB48DE96DA8B</generatorID>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<engineerTo>
+<item key="C50F63DD-B96A-2BB7-5EB2-6E202C18F510" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>5C75B4CB-31F3-5DAC-DDB9-DEF4C0608096</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

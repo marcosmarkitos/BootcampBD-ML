@@ -1,0 +1,54 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="visita" directorySegmentName="seg_0" id="AA4A355A-BE9F-E98F-ACE4-9D30032568C1">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<schemaObject>F0FCB60F-DAB0-79B5-C46E-A96604EE15F0</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="num_pac" id="A10EF2A4-5097-1944-5A96-37325ACEBB02">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="importe" id="A8F43884-781C-99F5-6D64-3644236CDAE5">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="fecha_visita" id="DA731CEA-F881-5729-DE37-436E4595DAFF">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="num_med" id="ECCCCC48-28F7-0D72-DDC7-9DCC383C3165">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="visita_num_pac_fkey" id="3FDEC663-2C11-4844-8413-6E1FA202F000">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="visita_num_med_fkey" id="461FDAAB-624C-2741-10C7-57BF0059C51A">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="vis_pk" id="F6803C5D-3BD1-49D6-9481-988132A7519A">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<indexSort>SORTED</indexSort>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>

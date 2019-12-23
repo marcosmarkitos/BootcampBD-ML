@@ -1,0 +1,77 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="medico" directorySegmentName="seg_0" id="96120054-9DA8-E231-4607-B015FF17C87A">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<schemaObject>F0FCB60F-DAB0-79B5-C46E-A96604EE15F0</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="nom_med" id="34B0682C-6EB9-6A3B-8EBC-A6320A659D35">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="num_med" id="50128A37-1A4B-8FF0-4694-08B92C793D92">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="especialidad" id="53CDDBF2-FD4D-9A52-FF6A-7B5D89A4B539">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="sueldo" id="5ECD6D7D-A1EF-30FA-27DF-49400BA1DF79">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ciudad" id="714D69C1-6FF4-060A-A48C-5BAADC440499">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="direccion" id="798F4FF7-6471-721A-B4DE-1334BDF9B7B9">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="telefono" id="B6F76FCE-ABB0-17E7-A413-5E307EC5FC88">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="dni" id="D8FB2119-2080-1951-48EA-94AE3B56FC37">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="med_pk" id="94B417BF-5CB0-3AAB-2138-EE5619919C3F">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<indexSort>SORTED</indexSort>
+</PrimaryKey>
+</primaryKeys>
+<tableCheckConstraints itemClass="oracle.dbtools.crest.model.design.storage.oracle.TableCheckConstraintOracle">
+<TableCheckConstraint name="med_sueldo_positivo" id="4F21A8CF-5018-4DD7-4636-40A959C063C6">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+</TableCheckConstraint>
+</tableCheckConstraints>
+<uniqueKeys>
+<UniqueKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.UniqueOraclev10g" name="med_dni_unico" id="C57CFFB1-579D-9F59-BEFB-767861EBF63D">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<indexSort>SORTED</indexSort>
+</UniqueKey>
+</uniqueKeys>
+</TableProxyOraclev11g>

@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="C50F63DD-B96A-2BB7-5EB2-6E202C18F510" mainViewID="8DE25AF2-1A6A-A25E-5208-155BCEF03507">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:34:08 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>32076570-2523-435C-2E92-BF29817DFF70</selectedRDBMSSite>
+<importConnectionStamps>
+<importConnectionStamp class="oracle.dbtools.crest.imports.DBConnectionStamp">
+<connName>postgres</connName>
+<connUser>postgres</connUser>
+<connType>0</connType>
+</importConnectionStamp>
+</importConnectionStamps>
+</relationalModel>

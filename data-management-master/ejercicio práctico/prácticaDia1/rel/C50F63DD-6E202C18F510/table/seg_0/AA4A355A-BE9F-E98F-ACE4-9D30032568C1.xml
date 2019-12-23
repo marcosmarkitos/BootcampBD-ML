@@ -1,0 +1,113 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="AA4A355A-BE9F-E98F-ACE4-9D30032568C1" schemaObject="F0FCB60F-DAB0-79B5-C46E-A96604EE15F0" name="visita">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>public</sourceObjSchema>
+<sourceObjName>visita</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="num_med" id="ECCCCC48-28F7-0D72-DDC7-9DCC383C3165">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>visita</sourceObjSchema>
+<sourceObjName>num_med</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="38309F6B-1EB1-0554-EF0D-46AA0BB9E137" referredColumn="50128A37-1A4B-8FF0-4694-08B92C793D92"/>
+</associations>
+</Column>
+<Column name="num_pac" id="A10EF2A4-5097-1944-5A96-37325ACEBB02">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>visita</sourceObjSchema>
+<sourceObjName>num_pac</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="36A0FFB7-30A1-36C1-F8AB-39A22FBAF60C" referredColumn="DAED2D90-DF9D-47AF-D071-B600F7771C13"/>
+</associations>
+</Column>
+<Column name="fecha_visita" id="DA731CEA-F881-5729-DE37-436E4595DAFF">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>visita</sourceObjSchema>
+<sourceObjName>fecha_visita</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="importe" id="A8F43884-781C-99F5-6D64-3644236CDAE5">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>visita</sourceObjSchema>
+<sourceObjName>importe</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="F6803C5D-3BD1-49D6-9481-988132A7519A" name="vis_pk">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>public</sourceObjSchema>
+<sourceObjName>vis_pk</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="ECCCCC48-28F7-0D72-DDC7-9DCC383C3165"/>
+<colUsage columnID="A10EF2A4-5097-1944-5A96-37325ACEBB02"/>
+<colUsage columnID="DA731CEA-F881-5729-DE37-436E4595DAFF"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="461FDAAB-624C-2741-10C7-57BF0059C51A" name="visita_num_med_fkey">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="ECCCCC48-28F7-0D72-DDC7-9DCC383C3165"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="3FDEC663-2C11-4844-8413-6E1FA202F000" name="visita_num_pac_fkey">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 17:55:01 UTC</createdTime>
+<ownerDesignName>prácticaDia1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A10EF2A4-5097-1944-5A96-37325ACEBB02"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
