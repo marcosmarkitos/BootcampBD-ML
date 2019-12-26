@@ -1,0 +1,118 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="BE069459-8DE1-885D-D55A-AAB3857D44D9" name="paciente">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>8D16E7BB-B934-566E-6A82-C62FDEAFDAFE</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="num pac" id="020D6338-4E4C-76A4-3831-BD0B9170E32D">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>26B4E96A-4BFA-6E56-57A5-B41BC36E12F1</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="nom pac" id="6D8DE5F9-72A3-85B2-35AA-127F76174757">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>F8B13731-376C-9599-4614-5CCE518A68DC</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="direccion" id="E49DABDE-5634-5E61-305C-90F94E850C11">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>A3906C6C-3C4E-2992-BE63-6DB751CF139D</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ciudad" id="782228CD-F00B-9CDC-670E-41639302BC3C">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>1BDC169D-ED83-9307-288B-06146DD551E1</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="dni" id="5B1FE4B2-D476-846A-795A-EC36C19193A4">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>2B266FF1-9014-5DCC-A215-818A1932449F</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="BE547914-4410-D158-6BD6-CDC4076E2CAF" name="pac pk">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>4D600C0D-6233-D968-B4A7-C2A9634BFE74</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>020D6338-4E4C-76A4-3831-BD0B9170E32D</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="0040D13D-6B2F-59A7-5EDC-53DF9033132D" name="pac dni unico">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>EEEFB5F6-778D-37DE-550C-15624C6FE48A</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<usedAttributes>
+<attributeRef>5B1FE4B2-D476-846A-795A-EC36C19193A4</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

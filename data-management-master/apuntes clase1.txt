@@ -1,0 +1,54 @@
+Vamos a estudiar una metodología: Data Management.
+Tiene una certificación.
+el libro DMBOK, se puede compar aquí https://www.amazon.es/DAMA-DMBOK-2nd-Data-Management-Knowledge/dp/1634622340
+
+Compaginaremos esta teoría con una parte práctica para entenderla mejor.
+
+objetivo teórico: comprender los conceptos ppales relacionados con las funciones de la gestión de datos 
+desde la perspectiva de personas (organización), procesos (actividades) y tecnología.
+
+Mejorar la calidad de la empresa en base a la gobernanza del dato.
+
+Tenemos más datos de más fuentes en menos tiempo. Hay que sacar valor a esos datos.
+
+independientemente de la tecnología que usemos, hay que hacer una gestión eficiente del dato.
+
+CDO: Chief Data Officer
+encargado de llevar a cabo una iniciativa DM. Hay que expandir la cultura de la gobernanza del dato.
+Hay que sacar valor al dato. No solo almacenarlo.
+
+
+PRINCIPALES OBJETIVOS DEL DM:
+Los datos tienen que ser fácilmente identificables (que se busque rápido)
+Y que el dato se entregue de forma correcta, de una forma veraz.
+
+la gestión de datos es definir métodos efectivos para que la información se encuentre:
+en el LUGAR donde lo necesitamos, 
+en el MOMENTO en el que lo necesitamos, 
+y con las CARACTERÍSTICAS que necesitamos.
+
+El Gobierno del dato es una responsabilidad conjunta del Negocio e IT.
+Proceso cíclico: plan->do->check->act
+
+DAMA: estructura internacional que vela por el DM.
+su framework propone 11 funciones.
+
+GOBIERNO DEL DATO:
+diferencia entre gobernar y gestionar:
+gob -> definir qué hacer y cómo (las normas, las leyes)
+gest -> ejecutarlo
+
+El gobierno es la función menos técnica del DM. organización, estandarización, auditoría (seguimiento y control).
+
+políticas: aplican a áreas
+estándares: aplican a datos concretos.
+
+gobierno de datos slide 26
+
+METADATO:
+información sobre el dato. datos que describen otros datos.
+Elemento de Dato y Elemento Crítico de dato (aquel que es crítico para el éxito de negocio de un área).
+Metadatos de negocio (glosarios, clasificaciones, reglas y responsabilidades)
+y metadados técnicos (datos físicos, integración de datos, modelos lógicos, informes y análisis).
+
+slide 54

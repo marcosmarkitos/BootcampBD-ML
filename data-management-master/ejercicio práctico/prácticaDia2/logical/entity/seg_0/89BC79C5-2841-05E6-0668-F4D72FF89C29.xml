@@ -1,0 +1,94 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="89BC79C5-2841-05E6-0668-F4D72FF89C29" name="visita">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>DD96CD6A-3F3F-BCB4-D299-1E95C19F062F</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="num med" id="98C97B19-D3AD-0350-3839-2A4C15FB98AE">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>B1284B3F-DFE8-E861-11FD-0589B0BEB56A</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<referedAttribute>6779F290-7F53-2458-A879-9C5955D3FBE9</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="num pac" id="833B0791-5A04-F7A5-E5C1-6DB564293327">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>15EE6B26-C989-BDD4-67BD-ACAB5C2F3B17</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<referedAttribute>020D6338-4E4C-76A4-3831-BD0B9170E32D</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="fecha visita" id="47F1F3D2-8F62-3F6E-851A-ABA187EC46E2">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>9C024BAC-E13B-62E5-C069-5BB0CCC707B2</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="importe" id="710E06D1-71E6-A079-31B4-DCD5E2D56B2D">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>F4EFE077-BC1B-B610-1A13-D54E57A08905</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="59DACD91-C7D7-37D6-9E68-1405856383DB" name="vis pk">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>26C6181C-96A1-3379-D45B-FA1C103700C4</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>98C97B19-D3AD-0350-3839-2A4C15FB98AE</attributeRef>
+<attributeRef>833B0791-5A04-F7A5-E5C1-6DB564293327</attributeRef>
+<attributeRef>47F1F3D2-8F62-3F6E-851A-ABA187EC46E2</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

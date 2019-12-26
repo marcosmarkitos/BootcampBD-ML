@@ -1,0 +1,161 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="37F37402-B280-E3BF-B2AE-521DEDCC7602" name="medico">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>DB05E8A6-005D-5104-7814-5191A5093716</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="num med" id="6779F290-7F53-2458-A879-9C5955D3FBE9">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>B6FF7F54-3D2D-A8F9-80D5-7BF31C709B97</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="nom med" id="07A22E83-25F0-D239-9BEF-CE735CC32940">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>2AC68D3E-1CA4-0846-2697-8365DB3D6C27</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="especialidad" id="C091FE2F-1F93-8AAD-C334-9950C111824E">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>336E374B-94CC-E578-1588-F3885B360F67</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="direccion" id="D80D2F5C-91D9-2FA8-4F29-511631A0C2E1">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>81A13A57-77D6-F467-8867-4BDC63988375</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ciudad" id="1392FB93-16C2-3090-CEB2-8EB61B306F3B">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>E78C3B5A-A783-4961-5FF3-B304EC77BBD7</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="telefono" id="6172F2B0-92D3-9A7D-5BEC-5261C66E8093">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>A177898D-3E89-EC25-7BE4-B7F1AC736F8F</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="sueldo" id="8CEF6176-EEAD-ADED-4E8D-812F2A9297C5">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>24B0CF9B-57E1-DC12-D405-CC713618D328</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="dni" id="4D6F1AB8-F457-C164-6F7B-78D5594F8383">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>7BE3BCCE-6934-8911-609D-E77BE6233018</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="9A6EF390-BB02-AB3D-AEB6-71F931DA6ED4" name="med pk">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>0CA0B9DE-75E6-E3CE-A59D-85F001377F7B</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>6779F290-7F53-2458-A879-9C5955D3FBE9</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="5F9E93CC-2452-DAEC-B767-D36D21E708E5" name="med dni unico">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>4833041B-5444-66C2-7BC8-7C44FEC353C6</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<usedAttributes>
+<attributeRef>4D6F1AB8-F457-C164-6F7B-78D5594F8383</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

@@ -1,0 +1,114 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="8D16E7BB-B934-566E-6A82-C62FDEAFDAFE" name="paciente">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>public</sourceObjSchema>
+<sourceObjName>paciente</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="num_pac" id="26B4E96A-4BFA-6E56-57A5-B41BC36E12F1">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>paciente</sourceObjSchema>
+<sourceObjName>num_pac</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nom_pac" id="F8B13731-376C-9599-4614-5CCE518A68DC">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>paciente</sourceObjSchema>
+<sourceObjName>nom_pac</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="direccion" id="A3906C6C-3C4E-2992-BE63-6DB751CF139D">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>paciente</sourceObjSchema>
+<sourceObjName>direccion</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ciudad" id="1BDC169D-ED83-9307-288B-06146DD551E1">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>paciente</sourceObjSchema>
+<sourceObjName>ciudad</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="dni" id="2B266FF1-9014-5DCC-A215-818A1932449F">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>paciente</sourceObjSchema>
+<sourceObjName>dni</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="4D600C0D-6233-D968-B4A7-C2A9634BFE74" name="pac_pk">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>public</sourceObjSchema>
+<sourceObjName>pac_pk</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="26B4E96A-4BFA-6E56-57A5-B41BC36E12F1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="EEEFB5F6-778D-37DE-550C-15624C6FE48A" name="pac_dni_unico">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>public</sourceObjSchema>
+<sourceObjName>pac_dni_unico</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2B266FF1-9014-5DCC-A215-818A1932449F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

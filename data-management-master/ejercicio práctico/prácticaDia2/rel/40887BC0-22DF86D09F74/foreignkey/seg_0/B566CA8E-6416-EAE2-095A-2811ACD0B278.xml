@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="B566CA8E-6416-EAE2-095A-2811ACD0B278" containerWithKeyObject="DD96CD6A-3F3F-BCB4-D299-1E95C19F062F" localFKIndex="3866C913-2599-6885-2309-97C013B451F0" name="visita_num_med_fkey">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>public</sourceObjSchema>
+<sourceObjName>visita_num_med_fkey</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<referredTableLongName>medico</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>DB05E8A6-005D-5104-7814-5191A5093716</referredTableID>
+<keyObject>0CA0B9DE-75E6-E3CE-A59D-85F001377F7B</keyObject>
+<referredKeyID>0CA0B9DE-75E6-E3CE-A59D-85F001377F7B</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>num_med</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

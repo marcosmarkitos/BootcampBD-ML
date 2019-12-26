@@ -1,0 +1,107 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="B409A3C2-07D9-2207-6862-D34A60EDD57A" name="receta">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>99941F6F-0749-E54E-3C07-4FCF17934C60</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="num rec" id="F43593D5-A858-4B3C-F31C-3EA35DAF6F36">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>12D7C807-D213-7524-E251-3B11204A1A19</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="medicamento" id="4D255A62-4BE9-4A37-D36C-A7AB292CE0EC">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>2B1F4EA0-2DE3-BA45-5A21-6BFB01410DF7</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="num med" id="DEE7D4BA-72A1-2F3C-CE72-A4E5773FCC81">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>3EB79406-00E4-585D-925B-95729DDCBE33</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<referedAttribute>98C97B19-D3AD-0350-3839-2A4C15FB98AE</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="num pac" id="BEDD342E-0C9C-2C6D-C81D-26F8D25B034D">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>3EB79406-00E4-585D-925B-95729DDCBE33</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<referedAttribute>833B0791-5A04-F7A5-E5C1-6DB564293327</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="fecha visita" id="80AF1DAA-459A-8ADB-32A0-C08E13224E0A">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>3EB79406-00E4-585D-925B-95729DDCBE33</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<referedAttribute>47F1F3D2-8F62-3F6E-851A-ABA187EC46E2</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="D37C3943-DE3B-F697-36E7-860F53CD37C7" name="rec pk">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>E543F10F-CC87-30D0-8BA9-4A5DC538DCE5</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>F43593D5-A858-4B3C-F31C-3EA35DAF6F36</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

@@ -1,0 +1,54 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="paciente" directorySegmentName="seg_0" id="8D16E7BB-B934-566E-6A82-C62FDEAFDAFE">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="ciudad" id="1BDC169D-ED83-9307-288B-06146DD551E1">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="num_pac" id="26B4E96A-4BFA-6E56-57A5-B41BC36E12F1">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="dni" id="2B266FF1-9014-5DCC-A215-818A1932449F">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="direccion" id="A3906C6C-3C4E-2992-BE63-6DB751CF139D">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="nom_pac" id="F8B13731-376C-9599-4614-5CCE518A68DC">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="pac_pk" id="4D600C0D-6233-D968-B4A7-C2A9634BFE74">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<indexSort>SORTED</indexSort>
+</PrimaryKey>
+</primaryKeys>
+<uniqueKeys>
+<UniqueKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.UniqueOraclev10g" name="pac_dni_unico" id="EEEFB5F6-778D-37DE-550C-15624C6FE48A">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<indexSort>SORTED</indexSort>
+</UniqueKey>
+</uniqueKeys>
+</TableProxyOraclev11g>

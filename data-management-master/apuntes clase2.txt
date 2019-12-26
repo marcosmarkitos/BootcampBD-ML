@@ -1,0 +1,15 @@
+Continuación diseñado, modelado e integración de BBDD(ejemplo del hospital):
+SQLdeveloper
+talend data integration
+odi studio
+
+Calidad de datos: Trifacta y talend preparation
+- perfilado, evaluación y monitorización.
+- dos tipos de acciones:
+	- automáticas (trifacta, talend)
+	- otras más complejas (una persona especializada)
+
+
+
+Breve resumen del DMBOOK 2ed:
+https://public.tableau.com/profile/andr.s.parra#!/vizhome/DAMA-DMBOK2Ed/DAMA-DMBOOK2

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<cwd_glossary name="Glosario de Roles" description="Glosario de términos para sistema de gestión de roles de usuarios" id="30E1BFCA-4F0B-0563-6315-CB2EF87E5C29" >
+
+   <glossaryWord name="Usuarios" plural="USUARIOS" abbreviation="USU" alt_abbreviation="" primary_word="true" id="50861213-8D70-D4EB-C73F-BC2BF373A98E" import_id="" description="" />
+   <glossaryWord name="Privilegios" plural="PRIVILEGIOS" abbreviation="PRIV" alt_abbreviation="" primary_word="true" id="F7AEC0EA-40DF-D2A4-75D9-DE835ED256ED" import_id="" description="" />
+   <glossaryWord name="Roles" plural="ROLES" abbreviation="ROL" alt_abbreviation="" primary_word="true" id="884C763C-1B47-257C-2505-166B10D62653" import_id="" description="" />
+
+</cwd_glossary>

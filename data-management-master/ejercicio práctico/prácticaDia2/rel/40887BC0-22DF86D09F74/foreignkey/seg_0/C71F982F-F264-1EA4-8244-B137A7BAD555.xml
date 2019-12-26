@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="C71F982F-F264-1EA4-8244-B137A7BAD555" containerWithKeyObject="DD96CD6A-3F3F-BCB4-D299-1E95C19F062F" localFKIndex="F0EB34CF-E9CF-B827-9107-C09B94CD1E04" name="visita_num_pac_fkey">
+<sourceConnName>postgres</sourceConnName>
+<sourceObjSchema>public</sourceObjSchema>
+<sourceObjName>visita_num_pac_fkey</sourceObjName>
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:09:33 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<referredTableLongName>paciente</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>8D16E7BB-B934-566E-6A82-C62FDEAFDAFE</referredTableID>
+<keyObject>4D600C0D-6233-D968-B4A7-C2A9634BFE74</keyObject>
+<referredKeyID>4D600C0D-6233-D968-B4A7-C2A9634BFE74</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>num_pac</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

@@ -1,0 +1,4 @@
+sugerencias práctica:
+mirar páginas meteorología, idealista y similares
+
+mejor scrapy que extraer con requests

@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="visita_num_med_fkey" directorySegmentName="seg_0" id="B1284B3F-DFE8-E861-11FD-0589B0BEB56A">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:10:04 UTC</createdTime>
+<generatorID>B566CA8E-6416-EAE2-095A-2811ACD0B278</generatorID>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<engineerTo>
+<item key="40887BC0-B775-D94B-97D2-22DF86D09F74" value="true"/>
+</engineerTo>
+<sourcePk>9A6EF390-BB02-AB3D-AEB6-71F931DA6ED4</sourcePk>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>37F37402-B280-E3BF-B2AE-521DEDCC7602</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>89BC79C5-2841-05E6-0668-F4D72FF89C29</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

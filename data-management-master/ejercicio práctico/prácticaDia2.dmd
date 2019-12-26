@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="prácticaDia2" id="0CAE06E0-F7B3-29D4-0587-FFE1BF458F59" version="3.5">
+<createdBy>marcos</createdBy>
+<createdTime>2019-12-23 18:08:48 UTC</createdTime>
+<ownerDesignName>prácticaDia2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>0CAE06E0-F7B3-29D4-0587-FFE1BF458F59</designId>
+</OSDM_Design>
