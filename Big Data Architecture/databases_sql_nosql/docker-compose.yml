@@ -1,0 +1,27 @@
+version: "2"
+services:
+  psql:
+    build: postgres
+    ports:
+      - "5432:5432"
+  mongodb:
+    image: mongo
+    ports:
+      - "27017:27017"
+  notebook:
+    build: notebook
+    ports:
+      - "8888:8888"
+    links:
+      - mongodb
+      - psql
+      - neo4j
+  neo4j:
+    image: neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+  mongo-seed:
+    build: mongo-seed
+    links:
+      - mongodb
