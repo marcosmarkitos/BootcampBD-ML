@@ -1,0 +1,1 @@
+docker run --rm -it -p 8888:8888 -v /c/Users/marcos/desktop/estadistica:/mnt calabozo/estadistica
