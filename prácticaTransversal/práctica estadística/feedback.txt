@@ -1,0 +1,7 @@
+Hola
+Una práctica casi perfecta, tu nota es APTO. Muy bien.
+Simplemente recuerda que hay funciones a las que ya le pasas el dataframe y solo tienes que acceder a las columnas por su nombre, 
+no hace falta escribir de nuevo el dataframe. 
+
+Revisa los comentarios en el notebook adjunto.
+Saludos

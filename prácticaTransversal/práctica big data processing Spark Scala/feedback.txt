@@ -1,0 +1,20 @@
+NOTA: APTO
+
+De la parte 1:
+
+Ok el consumidor y productor por terminal   se visualiza correctamente la conexión entre los dos 
+
+La parte del consumidor, usas serialización como se recomendó en clase. 
+Veo que filtras con dos puedes usar un solo filter con el operador and, 
+también tienes la opción de usar select o if las tres formas serían correctas 
+
+ 
+
+De la parte 2:  Me entregas los pasos para instalar zepellin con todos los pasos correctos y haces el cálculo de los amigos. 
+Recuerda que también puedes usar el crear tabla temporal y luego select+count
+
+ 
+
+Un Saludo
+
+Marta

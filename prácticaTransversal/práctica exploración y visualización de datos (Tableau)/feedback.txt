@@ -1,0 +1,27 @@
+Buenas Marcos,
+
+
+
+Simplemente felicitarte por el esfuerzo hecho: APTO.  
+
+
+
+Te dejo todos los detalles y feedback a continuación:  
+
+
+
+Diseño final del dashboard. Apto/No apto
+
+Uso de buenas prácticas. Apto/No apto
+
+Cálculo de KPIs adecuados y el uso de campos calculados avanzados. Apto/No apto
+
+Uso de vistas interactivas. Apto/No apto
+
+
+Enhorabuena por este trabajo. Un dashboard muy limpio, con un objetivo claro y con interactividad entre vistas.  
+
+
+Un saludo,
+
+José Antonio.

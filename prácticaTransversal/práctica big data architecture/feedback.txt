@@ -1,0 +1,19 @@
+Buenas tardes Marcos,
+
+Tras revisar tu entrega te comento que el resultado es: APTO.
+
+De verdad que he quedado muy gratamente impresionado con tu entrega, lo tiene todo:
+
+Buen formato
+Diagrama Conciso y entendible
+Desarrollo entero con pantallazos y demás
+Idea buena, bien explicada y arquitectura bien adaptada a la misma
+Operation Model muy muy claro y también adaptado al negocio y buscando eficiencia
+Además eres parte del selecto grupo de alumnos que ha metido herramientas diferentes a las que hemos visto en clase 
+(hay quien ni cambio el documento de la demo...) y me he dado cuenta de la existencia de DataPrep! Muchas gracias por eso.
+
+En fin, muchas gracias por una entrega de calidad.
+
+Suerte en el resto del bootcamp y cuenta conmigo para lo que necesites.
+
+Ricardo
