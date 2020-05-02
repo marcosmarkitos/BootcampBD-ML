@@ -1,0 +1,14 @@
+Hola Marcos!
+
+Una práctica muy buena! :) 
+
+Particularmente bueno el modo de presentar la resolución de los ejercicios resueltos. 
+A veces no le damos la importancia suficiente pero es muy importante dar los resultados de modo que "cualquiera" los entienda :)
+
+El ejercicio 7 (algoritmos Grow y Shrink) comentarte que en la solución de la práctica que actualizaré al acabar de corregir todos vuestros trabajos 
+(lo comunicaré por Slack) subiré una versión mejorada, ya que este algoritmo, si bien funciona en los casos planteados, 
+como habrás podido leer por Slack, tiene algún caso en el que no lo calcula correctamente ;)
+
+Por lo demás, una práctica muy buena. Así que enhorabuena y mucho ánimo para lo que viene ahora!
+
+sandra
