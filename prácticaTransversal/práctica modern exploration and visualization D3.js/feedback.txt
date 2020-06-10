@@ -1,0 +1,11 @@
+Buenas noches,
+
+Tu calificación de la práctica es APTA, pero te puntualizo algunas cosas a mejorar.
+- En cada click haces un apend del svg por lo que vas creando distintas gráficas y no eliminas las anteriores, por lo que se corregiría o bien borrando la anterior, o actualizando los datos del nuevo barrio como en la solución propuesta.
+
+- El siguiente fallo lo tienes en la escala X, las habitaciones están mal elegidas. y por lo tanto se pinta mal su valor, así que hay que tener en cuenta que en el eje y , hay que restar su altura ya que el eje al contrario que en un eje y normal en d3 va desde arriba hacia abajo.
+
+Disculpa la demora, he tenido problemas  de  salud y familiares.
+
+Un saludo.
+Miguel.
