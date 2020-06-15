@@ -1,0 +1,14 @@
+Hola, Marcos:
+
+Comento los puntos en los que me he basado para corregir la práctica:
+
+Análisis exploratorio, generación de nuevas características a partir de las existentes y codificación de variables: 
+Un análisis muy detallado y correcto, con un uso apropiado de las herramientas gráficas y un criterio razonable de eliminación de outliers. 
+La codificación es correcta también, usando mean encoder y sin cometer data leakage. 
+Además, tienes todas tus transformaciones juntas, lo que facilita mucho luego el repetirlas una y otra vez en test.
+
+Selección y evaluación del modelo y comparativa de distintos algoritmos: 
+también correcta, sin ninguna pega; 
+destaco el hecho de que hayas buscado el rebajar la complejidad para evitar entrar en overfitting; bien visto.
+
+Nada más, simplemente mi enhorabuena por superar el módulo! :)
