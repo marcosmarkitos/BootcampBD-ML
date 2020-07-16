@@ -1,0 +1,30 @@
+Hola Marcos,
+
+La calificación de tu práctica es APTO.
+
+¡Muy bien! Enhorabuena porque has realizado un trabajo muy completo, 
+y además lo has explicado y justificado todo perfectamente. 
+Y como guinda, buenos resultados ;)
+
+Algunos comentarios:
+
+- Lo que comentas de la variable número 48 en la clasificación de datos numéricos se debe 
+casi con toda probabilidad a que había algún dato erróneo o NaN. 
+
+- El problema real de no obtener buenos resultados con las imágenes es que no existe 
+una estructura ni coherencia. Es decir, a veces estaremos viendo imágenes de cocinas, 
+otras de sofás y otras de baños. Además, no tenemos un extractor de características 
+"bueno" preentrenado en este tipo de datos, con lo que vamos a tener overfitting al estar 
+entrenando la parte convolucional expresamente para este problema, 
+en vez de usar un extractor "congelado". 
+
+- Bien utilizado hiperopt para encontrar los mejores hiper-parámetros de la red!
+
+- Como bien has observado, no siempre añadir más datos es mejor. 
+En este caso, las imágenes solamente introducen ruido al modelo, 
+por lo que las prestaciones de éste bajan.
+
+En definitiva, muy buen trabajo!
+
+Saludos
+Félix
