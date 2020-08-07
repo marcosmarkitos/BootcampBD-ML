@@ -1,0 +1,12 @@
+faltan los siguientes ficheros:
+
+NLP data:
+d2v_dbow_d300_w5.pkl
+ft_cbow_d300_mc5_w5.pkl
+ft_sg_d300_mc5_w5.pkl
+
+NLP/datasets:
+spanish_news_corpus_doc.txt
+
+NLP/Práctica Final/solución/datasets:
+reviews_Video_Games_5.json.gz
